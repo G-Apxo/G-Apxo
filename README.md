@@ -1,4 +1,4 @@
-Hi 👋 My name is Giorggi Apkhadze
+Hi 👋 My name is Giorgi Apkhadze
 =================================
 
 🔥 Lead Front-End Developer | Passionate Problem Solver 🧩
