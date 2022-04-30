@@ -2,7 +2,11 @@ Hi 👋 My name is Giorgi Apkhadze
 =================================
 🔥 Lead Front-End Developer | Passionate Problem Solver 🧩
 ----------------------------------------------------------
-How can you become seccsessfull? First step, should always be MINDSET to be focused on goals and achive them in a ordered manner. We should always try our best to live as an individuals, develop ourselves a personality and be team member, who can help you to see subjects from different angle and on the road of being a better person you will always find many problems and in most of them you will fail, thats what gives you experiance to be even better. In my work experiance I have encountered a lot of problems and met a lot of fails, which forged me a better person, team member and to have all esential skills to lead my team, where discipline and motivation is fuel which gives us energy to achive what others consider imposible. Programers main task is to be lazy enough to make project worth of few month in a week without sacrificing quility.* 🌍  I'm based in Georgia* ✉️  You can contact me at [gioapkhadze@gmail.com](mailto:gioapkhadze@gmail.com)* 🚀  I'm currently working on [React /Next /React Native](http://#)* 🤝  I'm open to collaborating on I'm open to collaborating on projects which started with passion and FIRE 🔥
+How can you become seccsessfull? First step, should always be MINDSET to be focused on goals and achive them in a ordered manner. We should always try our best to live as an individuals, develop ourselves a personality and be team member, who can help you to see subjects from different angle and on the road of being a better person you will always find many problems and in most of them you will fail, thats what gives you experiance to be even better. In my work experiance I have encountered a lot of problems and met a lot of fails, which forged me a better person, team member and to have all esential skills to lead my team, where discipline and motivation is fuel which gives us energy to achive what others consider imposible. Programers main task is to be lazy enough to make project worth of few month in a week without sacrificing quility.
+* 🌍  I'm based in Georgia
+* * ✉️  You can contact me at [gioapkhadze@gmail.com](mailto:gioapkhadze@gmail.com)
+* * 🚀  I'm currently working on [React /Next /React Native](http://#)
+* * 🤝  I'm open to collaborating on I'm open to collaborating on projects which started with passion and FIRE 🔥
 
 ### Skills
 
