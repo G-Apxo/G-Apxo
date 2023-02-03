@@ -19,11 +19,12 @@ How can you become seccsessfull? First step, should always be MINDSET to be focu
 
 <a href="http://www.github.com/G-Apxo"><img src="https://activity-graph.herokuapp.com/graph?username=G-Apxo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> 
 
-<a href="https://github.com/G-Apxo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Apxo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-apxo&show_icons=true&theme=dark&locale=en&layout=compact" alt="g-apxo" /></p>
 
-<a href="http://www.github.com/G-Apxo"><img src="https://activity-graph.herokuapp.com/graph?username=G-Apxo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g-apxo&show_icons=true&theme=dark&locale=en" alt="g-apxo" /></p>
 
-<a href="https://github.com/G-Apxo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Apxo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g-apxo&theme=dark" alt="g-apxo" /></p>
+
 
 <b>Top Repositories</b>
 
