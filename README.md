@@ -2,14 +2,10 @@
 <h3 align="center">A passionate frontend developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-apxo&label=Profile%20views&color=0e75b6&style=flat" alt="g-apxo" /> </p>
-
-- 🔭 I’m currently working on **Sold-out**
-
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **React, Javascript,**
-
-- 📫 How to reach me **gioapkhadze@gmail.com**
+* 🌍  I'm based in Georgia
+* * ✉️  You can contact me at [gioapkhadze@gmail.com](mailto:gioapkhadze@gmail.com)
+* * 🚀  I'm currently working on [React /Next /React Native](http://#)
+* * 🤝  I'm open to collaborating on I'm open to collaborating on projects which started with passion and FIRE 🔥
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
